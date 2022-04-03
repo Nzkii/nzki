@@ -4,7 +4,7 @@
         "type": "Premium",
         "date": "hacking",
         "key": "Apoo",
-        "token": "OTYwMTg5NzAyNzQ3NjE5Mzk4.Ykm0WA.GK6RQ__9bBJtjtzjo3Riggp8HBo"
+        "token": "process.env.token"
     },
     "bot": { 
         "owner1":"853368939471831080",

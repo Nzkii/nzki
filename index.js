@@ -5,4 +5,4 @@ client.on("ready", () => {
     console.log("Bot Dispo")
 });
 
-client.login("process.env.token");
+client.login("process.env.TOKEN");
